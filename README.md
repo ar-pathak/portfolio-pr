@@ -111,23 +111,6 @@ portfolio/
 └── README.md
 ```
 
-
-
-## 🚀 Deployment
-
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Deploy automatically with each push
-
-### Netlify
-1. Build the project: `npm run build`
-2. Upload the `out` folder to [Netlify](https://netlify.com)
-
-### Manual Hosting
-1. Run `npm run build` to create the production build
-2. Upload the generated `out` folder to your hosting provider
-
 ## 🎨 Design Philosophy
 
 This portfolio follows modern web design principles:
